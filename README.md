@@ -4,6 +4,8 @@ It works on any OS from Windows XP to 11 if you have .NET Framework 4.
 # Why I made this
 I made this because I was bored, and I decided to make it open source so C# newbies can learn how this type of malware
 works, and see how they implement all the Windows functions.
+# Showcase
+https://youtu.be/Mind2MuOOZk
 # Download
 You can download the built binary in Releases, and the source code is also available.
 # Payloads

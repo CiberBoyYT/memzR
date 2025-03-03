@@ -23,3 +23,6 @@ MBR credits: https://github.com/DigitalJokerMan/MEMZ-MBR-Overwriter/blob/master/
 # For my beloved skids
 I allow you to freely use any part of the code of this program, but just remember that if you copy paste it
 without understanding, you're the only one losing. Learning is better than stealing others work.
+# Disclaimer
+This was made for educational purposes only, therefore I don't make responsible for any damages caused by the misuse
+of this software or it's source code. Using this code for malicious purposes is breaking the license of this software.

